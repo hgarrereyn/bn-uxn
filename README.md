@@ -21,8 +21,8 @@ Developed during GoogleCTF 2023.
 
 ## Examples
 
-- [auxin.rom](roms/auxin.rom) from GoogleCTF 2023. See more information about that challenge [here](https://github.com/google/google-ctf/tree/master/2023/rev-auxin)
+- [auxin.rom](examples/auxin.rom) from GoogleCTF 2023. See more information about that challenge [here](https://github.com/google/google-ctf/tree/master/2023/rev-auxin)
 
-- [piano.rom](roms/piano.rom) distributed with the [uxn emulator](https://sr.ht/~rabbits/uxn/)
+- [piano.rom](examples/piano.rom) distributed with the [uxn emulator](https://sr.ht/~rabbits/uxn/)
 
 You can also find more ROMS [here](https://100r.co/site/uxn.html)
